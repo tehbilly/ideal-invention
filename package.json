@@ -1,0 +1,17 @@
+{
+  "name": "scoop-replacement",
+  "version": "1.0.0",
+  "description": "homebrew? Windows... Homebrew-like experience for windows!",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William McGann <contact@williammcgann.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "columnify": "^1.5.4",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.30.0"
+  }
+}

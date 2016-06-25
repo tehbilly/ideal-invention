@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "sourceMap": false,
+        "outDir": "dist"
+    },
+    "exclude": [
+        "node_modules",
+        "bower_components",
+        "jspm_packages"
+    ]
+}
